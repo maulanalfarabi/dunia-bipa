@@ -1,0 +1,100 @@
+{
+    "semua": [
+        {
+            "foto": "images/buku/bahan-ajar-bipa1.png",
+            "nama": "Buku BIPA 1",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=846"
+        },
+        {
+            "foto": "images/buku/bahan-ajar-bipa2.png",
+            "nama": "Buku BIPA 2",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=849"
+        },
+        {
+            "foto": "images/buku/bahan-ajar-bipa3.png",
+            "nama": "Buku BIPA 3",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=851"
+        },
+        {
+            "foto": "images/buku/bahan-ajar-bipa4.png",
+            "nama": "Buku BIPA 4",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=852"
+        },
+        {
+            "foto": "images/buku/bahan-ajar-bipa5.png",
+            "nama": "Buku BIPA 5",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=881"
+        },
+        {
+            "foto": "images/buku/bahan-ajar-bipa6.png",
+            "nama": "Buku BIPA 6",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=855"
+        }
+    ],
+    "bipa1": [
+        {
+            "foto": "images/buku/bahan-ajar-bipa1.png",
+            "nama": "Buku BIPA 1",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=846"
+        }
+    ],
+    "bipa2": [
+        {
+            "foto": "images/buku/bahan-ajar-bipa2.png",
+            "nama": "Buku BIPA 2",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=849"
+        }
+    ],
+    "bipa3": [
+        {
+            "foto": "images/buku/bahan-ajar-bipa3.png",
+            "nama": "Buku BIPA 3",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=851"
+        }
+    ],
+    "bipa4": [
+        {
+            "foto": "images/buku/bahan-ajar-bipa4.png",
+            "nama": "Buku BIPA 4",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=852"
+        }
+    ],
+    "bipa5": [
+        {
+            "foto": "images/buku/bahan-ajar-bipa5.png",
+            "nama": "Buku BIPA 5",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=881"
+        }
+    ],
+    "bipa6": [
+        {
+            "foto": "images/buku/bahan-ajar-bipa6.png",
+            "nama": "Buku BIPA 6",
+            "sumber": "BIPA Daring",
+            "cipta": "Kemdikbud",
+            "link": "https://bipa.kemdikbud.go.id/belajar_info.php?id=855"
+        }
+    ]
+}
